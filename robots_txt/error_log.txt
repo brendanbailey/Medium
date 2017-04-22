@@ -1,0 +1,10 @@
+cnzz.com	 Unicode Encode Error Handled 
+diply.com	 Unicode Encode Error Handled 
+microsoft.com	 Unicode Encode Error Handled 
+sina.com.cn	 Unicode Encode Error Handled 
+sohu.com	('Connection aborted.', error(54, 'Connection reset by peer'))
+tianya.cn	 Unicode Encode Error Handled 
+whatsapp.com	 Unicode Encode Error Handled 
+wikipedia.org	 Unicode Encode Error Handled 
+live.com	 Unicode Encode Error Handled 
+youtube.com	 Unicode Encode Error Handled 

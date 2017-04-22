@@ -1,0 +1,15 @@
+# robots
+
+User-agent: *
+Disallow: /account/
+Disallow: /delete/
+Disallow: /download/
+Disallow: /logout/
+Disallow: /removalrequest/
+Disallow: /memegen/
+Disallow: /upload/
+Disallow: /1/
+Disallow: /2/
+Disallow: /3/
+Sitemap: http://imgur.com/imgur-assets/sitemap_gallery/gallery_images.xml
+Sitemap: http://imgur.com/imgur-assets/sitemap_gallery/gallery_tags.xml
